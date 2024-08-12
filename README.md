@@ -1,1 +1,57 @@
 # Curry-Chawal
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Curry Chawal</title>
+    
+</head>
+<body>
+    <h1>Curry Chawal is Ready</h1>
+    <img src="curry.png" height="300" alt="Curry Chawal">
+    <h2>Ingredients</h2>
+    <ul>
+        <li>chana daal</li>
+        <li>masoor daal</li>
+        <li>chawal</li>
+        <li>termeric powder</li>
+        <li>red chili powder</li>
+        <li>curry patta</li>
+        <li>onion paste</li>
+        <li>ginger and garlic paste</li>
+        <li>salt</li>
+        <li>jeera</li>
+        <li>tej patta</li>
+        <li>curd</li>
+    </ul>
+    <h2>Instructions</h2>
+   
+        <h3>Make the Kadhi:</h3>
+        <ol>
+
+ <li> In a bowl, whisk together yogurt, gram flour, green chilies, turmeric powder, red chili powder, coriander powder, and salt until smooth.</li>
+ <li> Heat oil in a kadai. Add mustard seeds and let them splutter. Add cumin seeds and asafoetida.</li>
+
+ <li>Gradually pour the yogurt mixture into the kadai, stirring continuously to avoid lumps.</li>
+<li> Cook on low-medium heat, stirring occasionally, until the kadhi thickens and comes to a boil.</li>
+<li> Simmer for 10-15 minutes, stirring occasionally. Garnish with coriander leaves.</li>
+<h3>Make the Pakoras (optional):</h3>
+
+<li>In a bowl, mix gram flour, red chili powder, turmeric powder, salt, and water to form a batter.</li>
+
+<li>Add chopped onion (optional) to the batter.</li>
+<li> Heat oil in a deep pan.</li>
+<li> Drop spoonfuls of batter into the hot oil and fry until golden brown and crispy.</li>
+<li> Drain on paper towels.</li>
+<h3>Make the Rice:</h3>
+<li> Wash the rice thoroughly and soak for 30 minutes.</li>
+<li> Drain the rice and cook it in a pressure cooker with 4 cups of water for 2-3 whistles.</li>
+<li> Heat ghee in a pan, add cumin seeds, and let them splutter.</li>
+<li> Add the cooked rice and fluff it up gently.</li>
+
+<h3>Enjoy your homemade Kadhi Chawal!</h3>
+</ol>
+
+</body>
+</html>
